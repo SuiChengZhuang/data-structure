@@ -75,6 +75,6 @@ public class SparseArray {
             }
             System.out.println();
         }
-        System.out.println("分支提交代码");
+        System.out.println("代码同步");
     }
 }
