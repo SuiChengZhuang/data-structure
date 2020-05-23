@@ -75,5 +75,6 @@ public class SparseArray {
             }
             System.out.println();
         }
+        System.out.println("测试代码同步");
     }
 }
